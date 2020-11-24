@@ -16,7 +16,7 @@
     "@fortawesome/fontawesome-free": "^5.14.0",
     "bootstrap": "^4.5.0",
     "github-fork-ribbon-css": "^0.2.3",
-    "highlight.js": "^10.1.1",
+    "highlight.js": "^10.1.2",
     "html2canvas": "^1.0.0-rc.5",
     "jquery": "^3.5.1"
   },
